@@ -1,0 +1,20 @@
+{
+    "question": [
+        {
+            "id": 1,
+            "companyName": "TCS",
+            "conductingDate": "2024-02-28",
+            "totalRounds": 3,
+            "roundNames": "HR Technical Apptitude",
+            "file": ""
+        },
+        {
+            "id": 2,
+            "companyName": "TCS",
+            "conductingDate": "2024-02-28",
+            "totalRounds": 3,
+            "roundNames": "HR Technical Apptitude",
+            "file": ""
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+const  subjects = [
+    { value: 0, label: "Operating Systems" },
+    { value: 1, label: "Data Structures" },
+    { value: 2, label: "Programming" },
+    { value: 3, label: "Artificial Intelligence" },
+    { value: 4, label: "Database Management Systems" },
+    { value: 5, label: "Computer Architecture" },
+    { value: 6, label: "Computer Networks" },
+    { value: 7, label: "Design and Analysis of Algorithms" },
+    { value: 8, label: "Engineering Chemistry" },
+    { value: 9, label: "Discrete Mathematics" },
+    { value: 10, label: "Engineering Physics" },
+    { value: 11, label: "Basic Electrical Engineering" },
+    { value: 12, label: "Compiler Design" },
+    { value: 13, label: "Software Engineering" },
+    { value: 14, label: "Basic Mechanical Engineering" },
+    { value: 15, label: "Cloud Computing" },
+    { value: 16, label: "Communication Skills" },
+    { value: 17, label: "Data Communications" },
+    { value: 18, label: "Digital Circuits" },
+    { value: 19, label: "Engineering Drawing" },
+    { value: 20, label: "Environmental Studies" },
+    { value: 21, label: "Object-Oriented Programming" },
+    { value: 22, label: "Physics" },
+    { value: 23, label: "Theory of Computation" },
+  ];
+  export default subjects;
+
